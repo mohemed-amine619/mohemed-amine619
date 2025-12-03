@@ -35,7 +35,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Esolveit
+- 🔭 I’m currently working On Spotifyclone 
 - 🌱 I’m currently learning System Design
 - 👯 I’m looking to collaborate on Erp Solution
 - 🤔 I’m looking for help with Machine Learning
