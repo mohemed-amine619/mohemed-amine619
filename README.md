@@ -1,13 +1,13 @@
 # Hi 👋 I'm Mohamed Amine
 
-### 🚀 Full Stack Software Engineer | Laravel • Spring Boot • Next.js • React
+### 🚀 Full Stack Software Engineer | Laravel • Spring Boot • Vue.js • Angular
 
 Passionate about building scalable web applications, real-time systems, and enterprise solutions.
 
 * 🔭 Currently building **real-time & enterprise applications**
 * 🌱 Learning **Java, Spring Boot, System Design & Distributed Systems**
 * 💡 Interested in **Backend Engineering, AI, Trading Bots & Blockchain**
-* ⚡ Strong experience with **Laravel, Spring Boot, Next.js, React, PostgreSQL & Docker**
+* ⚡ Strong experience with **Laravel, Spring Boot, Vue.js, Angular, PostgreSQL & Docker**
 * 🎯 Goal: Become a **Senior Software Engineer & Tech Entrepreneur**
 
 ---
@@ -42,8 +42,8 @@ Passionate about building scalable web applications, real-time systems, and ente
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ### Database & DevOps
@@ -59,7 +59,7 @@ Passionate about building scalable web applications, real-time systems, and ente
 
 ### 🔥 Real Time Messaging Platform
 
-Real-time chat system using Laravel WebSockets, Redis & Next.js.
+Real-time chat system using Laravel WebSockets, Redis & Vue.js.
 
 ### 📦 Enterprise Management System
 
