@@ -14,17 +14,19 @@ Passionate about building scalable web applications, real-time systems, and ente
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/mohamed el amine bougrioua" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+## 🌐 Connect With Me
+
+<p align="left" style="display:flex; gap:10px; align-items:center;">
+<a href="https://linkedin.com/in/mohamed el amine bougrioua" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
 </a>
 
-<a href="https://instagram.com/fullstack_master9" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://instagram.com/fullstack_master9" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" />
 </a>
 
-<a href="https://www.leetcode.com/mohemed-amine619" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+<a href="https://www.leetcode.com/mohemed-amine619" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="30" />
 </a>
 </p>
 
