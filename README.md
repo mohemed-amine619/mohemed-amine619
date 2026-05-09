@@ -1,13 +1,13 @@
 # Hi 👋 I'm Mohamed Amine
 
-### 🚀 Full Stack Software Engineer | Laravel • Next.js • React • Go
+### 🚀 Full Stack Software Engineer | Laravel • Spring Boot • Next.js • React
 
 Passionate about building scalable web applications, real-time systems, and enterprise solutions.
 
 * 🔭 Currently building **real-time & enterprise applications**
-* 🌱 Learning **Go, System Design & Distributed Systems**
+* 🌱 Learning **Java, Spring Boot, System Design & Distributed Systems**
 * 💡 Interested in **Backend Engineering, AI, Trading Bots & Blockchain**
-* ⚡ Strong experience with **Laravel, Next.js, React, PostgreSQL & Docker**
+* ⚡ Strong experience with **Laravel, Spring Boot, Next.js, React, PostgreSQL & Docker**
 * 🎯 Goal: Become a **Senior Software Engineer & Tech Entrepreneur**
 
 ---
@@ -36,7 +36,8 @@ Passionate about building scalable web applications, real-time systems, and ente
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
 ### Frontend
