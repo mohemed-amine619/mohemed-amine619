@@ -1,93 +1,73 @@
-# Hi 👋 I'm Mohamed Amine
+<div align="center">
 
-### 🚀 Full Stack Software Engineer | Laravel • Spring Boot • Vue.js • Angular
+# ⚡ Mohamed Amine Bougrioua
 
-Passionate about building scalable web applications, real-time systems, and enterprise solutions.
+**Freelance Full-Stack Software Engineer | Tech Entrepreneur | System Architect**
 
-* 🔭 Currently building **real-time & enterprise applications**
-* 🌱 Learning **Java, Spring Boot, System Design & Distributed Systems**
-* 💡 Interested in **Backend Engineering, AI, Trading Bots & Blockchain**
-* ⚡ Strong experience with **Laravel, Spring Boot, Vue.js, Angular, PostgreSQL & Docker**
-* 🎯 Goal: Become a **Senior Software Engineer & Tech Entrepreneur**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/) 
+[![Website](https://img.shields.io/badge/Fullstack_Master-Portfolio-FF2D20?style=for-the-badge&logo=web)](https://your-website.com)
 
----
+*Building scalable enterprise architecture, real-time web systems, and algorithmic trading automation in Algiers.*
 
-# ⚒️ Tech Stack
-
-### Backend
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
-### Frontend
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### Database & DevOps
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis\&logoColor=white)
+</div>
 
 ---
 
-# 🚀 Featured Projects
+### 🚀 Executive Summary
 
-### 🔥 Real Time Messaging Platform
+I am a software engineer focused on designing high-performance backend systems and seamless frontend experiences. Through my professional ventures, **Fullstack Master** and **Innovent Technology**, I architect everything from corporate management ERPs to automated Python trading bots. I don't just write code; I build infrastructure that scales.
 
-Real-time chat system using Laravel WebSockets, Redis & Vue.js.
-
-### 📦 Enterprise Management System
-
-ERP-style management platform for companies with reporting & workflow automation.
-
-### 🤖 AI Trading Bot
-
-Automated trading system with market analysis and strategy execution.
-
-### 🌐 Blockchain & Fintech Experiments
-
-Exploring blockchain architecture and decentralized applications.
+* 🔭 **Currently Architecting:** Enterprise management modules (OGA & DEML) and asynchronous data export pipelines.
+* 🌱 **Current Learning Focus:** Evolving my stack with **Go, Advanced System Design, and Distributed Systems**.
+* ⚙️ **Domain Expertise:** Backend Engineering, Automated MT5 Trading Bots (Gold/Crypto), and RESTful API Design.
+* ⚡ **Core Arsenal:** Laravel, Vue.js, React.js, React Native, Python, PostgreSQL, and Docker.
+* 🎯 **Mission:** Build resilient systems that automate complex problems and drive business impact.
 
 ---
 
-# 📊 GitHub Stats
+### 🛠️ Technical Arsenal
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohemed-amine619&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohemed-amine619&theme=tokyonight" />
-</p>
+| Backend & Scripts | Frontend & Mobile | Architecture & DevOps |
+| :--- | :--- | :--- |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)<br>![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)<br>![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohemed-amine619&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
-# 🧠 Current Focus
+### 💻 Featured Engineering Feats
 
-* Scalable Backend Architecture
-* System Design
-* High Performance APIs
-* AI Engineering
-* Trading Systems
-* Distributed Systems
+> **Enterprise Workflow Management (OGA & DEML)**
+> Architected robust corporate and banking workflow platforms. Implemented highly optimized PostgreSQL database queries, robust validation layers, and background queue-execution architectures to handle massive asynchronous data exports without server timeouts.
+
+> **Quantitative Algorithmic Trading Systems**
+> Developed and configured automated algorithmic trading bots interfacing with MetaTrader 5. Built custom Python scripts optimized for low-latency execution in Gold and Cryptocurrency markets.
+
+> **Real-Time Telemetry & Messaging**
+> Engineered a high-concurrency, real-time communication platform utilizing Laravel WebSockets and Redis for instant payload delivery, paired with a reactive Vue.js frontend interface.
+
+> **Fullstack Master Production Platform**
+> Designed and deployed a scalable professional branding and portfolio platform from the ground up, leveraging modern Vue.js reactivity and Tailwind CSS utility classes.
 
 ---
 
-# 💬 Quote
+### 📊 GitHub Analytics
 
-> “Build systems that scale, automate problems, and create impact.”
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mohemed-amine619&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohemed-amine619&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohemed-amine619&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
+
+</div>
 
 ---
 
-⭐️ From [mohemed-amine619](https://github.com/mohemed-amine619)
+<div align="center">
+  <i>"Build systems that scale, automate the impossible, and execute with precision."</i>
+</div>
