@@ -39,8 +39,6 @@ I am a software engineer focused on designing high-performance backend systems a
 
 ### 💻 Featured Engineering Feats
 
-> **Enterprise Workflow Management (OGA & DEML)**
-> Architected robust corporate and banking workflow platforms. Implemented highly optimized PostgreSQL database queries, robust validation layers, and background queue-execution architectures to handle massive asynchronous data exports without server timeouts.
 
 > **Quantitative Algorithmic Trading Systems**
 > Developed and configured automated algorithmic trading bots interfacing with MetaTrader 5. Built custom Python scripts optimized for low-latency execution in Gold and Cryptocurrency markets.
