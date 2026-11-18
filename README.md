@@ -17,7 +17,6 @@
 
 I am a software engineer focused on designing high-performance backend systems and seamless frontend experiences. Through my professional ventures, **Fullstack Master** and **Innovent Technology**, I architect everything from corporate management ERPs to automated Python trading bots. I don't just write code; I build infrastructure that scales.
 
-* 🔭 **Currently Architecting:** Enterprise management modules (OGA & DEML) and asynchronous data export pipelines.
 * 🌱 **Current Learning Focus:** Evolving my stack with **Go, Advanced System Design, and Distributed Systems**.
 * ⚙️ **Domain Expertise:** Backend Engineering, Automated MT5 Trading Bots (Gold/Crypto), and RESTful API Design.
 * ⚡ **Core Arsenal:** Laravel, Vue.js, React.js, React Native, Python, PostgreSQL, and Docker.
